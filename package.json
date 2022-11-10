@@ -1,0 +1,30 @@
+{
+  "name": "learn-nodejs",
+  "version": "1.0.0",
+  "description": "learning nodejs date 11-10/2022",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "nodejs-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diemphuoc-zanzy/nodejs_learn.git"
+  },
+  "keywords": [
+    "nodejs",
+    "learn_nodejs"
+  ],
+  "author": "zanzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diemphuoc-zanzy/nodejs_learn/issues"
+  },
+  "homepage": "https://github.com/diemphuoc-zanzy/nodejs_learn#readme",
+  "dependencies": {
+    "expess": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
